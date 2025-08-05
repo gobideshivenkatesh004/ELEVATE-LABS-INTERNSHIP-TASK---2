@@ -1,1 +1,1 @@
-# ELEVATE-LABS-INTERNSHIP-TASK---2
+This is a simple command-line To-Do List application built with Python that allows users to add, view, and remove tasks. It uses a text file (tasks.txt) for persistent storage, making it a great project for learning basic file handling and user input in Python.
